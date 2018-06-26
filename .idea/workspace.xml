@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="44232ff2-293b-481b-a68f-1af9abf0533f" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/AMS.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/AMS.kt" afterDir="false" />
-    </list>
+    <list default="true" id="44232ff2-293b-481b-a68f-1af9abf0533f" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,14 +21,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FitMoreFish.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FitMoreFish.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/FitMoreFish.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="113">
-              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+            <state relative-caret-position="135">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
               <folding>
                 <element signature="e#0#60#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Practice13.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Practice13.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -88,6 +95,7 @@
         <option value="$PROJECT_DIR$/src/FortuneCookie2.kt" />
         <option value="$PROJECT_DIR$/src/AMS.kt" />
         <option value="$PROJECT_DIR$/src/FitMoreFish.kt" />
+        <option value="$PROJECT_DIR$/src/Practice13.kt" />
       </list>
     </option>
   </component>
@@ -143,7 +151,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.FitMoreFishKt">
+  <component name="RunManager" selected="Kotlin.Practice13Kt">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -203,15 +211,15 @@
       <option name="MAIN_CLASS_NAME" value="FortuneCookieKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
-    <configuration name="GreetingsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="Practice13Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="HelloKotlin" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="17" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="GreetingsKt" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="MAIN_CLASS_NAME" value="Practice13Kt" />
+      <option name="WORKING_DIRECTORY" />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -237,18 +245,18 @@
     </configuration>
     <list>
       <item itemvalue="Kotlin.AMSKt" />
-      <item itemvalue="Kotlin.GreetingsKt" />
       <item itemvalue="Kotlin.FortuneCookieKt" />
       <item itemvalue="Kotlin.FortuneCookie2Kt" />
       <item itemvalue="Kotlin.FitMoreFishKt" />
+      <item itemvalue="Kotlin.Practice13Kt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Practice13Kt" />
         <item itemvalue="Kotlin.FitMoreFishKt" />
         <item itemvalue="Kotlin.AMSKt" />
         <item itemvalue="Kotlin.FortuneCookie2Kt" />
         <item itemvalue="Kotlin.FortuneCookieKt" />
-        <item itemvalue="Kotlin.GreetingsKt" />
       </list>
     </recent_temporary>
   </component>
@@ -408,11 +416,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/FitMoreFish.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="e#0#60#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Practice13.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
         </state>
       </provider>
     </entry>
