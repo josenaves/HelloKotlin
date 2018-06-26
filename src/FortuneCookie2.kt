@@ -1,10 +1,12 @@
 // Code for Lesson 3 - Functions - Quiz 9
 
 fun main(args: Array<String>) {
-    for (i in 1..10) {
-        var fortune: String = getFortuneCookie(getBirthday())
+    var i  = 0
+    var fortune = ""
+    while (i < 10 && !fortune.contains("Take it easy")) {
+        fortune = getFortuneCookie(getBirthday())
         println("Your fortune is: $fortune")
-        if (fortune.contains("Take it easy")) break
+        i++
     }
 }
 

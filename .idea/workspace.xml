@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="44232ff2-293b-481b-a68f-1af9abf0533f" name="Default" comment="" />
+    <list default="true" id="44232ff2-293b-481b-a68f-1af9abf0533f" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/AMS.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/AMS.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FortuneCookie2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/FortuneCookie2.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice13.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice13.kt" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,8 +19,8 @@
       <file leaf-file-name="AMS.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/AMS.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="25" lean-forward="true" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+            <state relative-caret-position="180">
+              <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -33,11 +37,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Practice13.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Practice13.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Practice13.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+            <state relative-caret-position="240">
+              <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -51,11 +55,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FortuneCookie2.kt" pinned="false" current-in-tab="false">
+      <file leaf-file-name="FortuneCookie2.kt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/FortuneCookie2.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+            <state relative-caret-position="150">
+              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -92,10 +96,10 @@
         <option value="$PROJECT_DIR$/src/Practice.kt" />
         <option value="$PROJECT_DIR$/src/Greetings.kt" />
         <option value="$PROJECT_DIR$/src/FortuneCookie.kt" />
-        <option value="$PROJECT_DIR$/src/FortuneCookie2.kt" />
-        <option value="$PROJECT_DIR$/src/AMS.kt" />
         <option value="$PROJECT_DIR$/src/FitMoreFish.kt" />
+        <option value="$PROJECT_DIR$/src/AMS.kt" />
         <option value="$PROJECT_DIR$/src/Practice13.kt" />
+        <option value="$PROJECT_DIR$/src/FortuneCookie2.kt" />
       </list>
     </option>
   </component>
@@ -151,7 +155,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.Practice13Kt">
+  <component name="RunManager" selected="Kotlin.FortuneCookie2Kt">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -252,10 +256,10 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.Practice13Kt" />
-        <item itemvalue="Kotlin.FitMoreFishKt" />
-        <item itemvalue="Kotlin.AMSKt" />
         <item itemvalue="Kotlin.FortuneCookie2Kt" />
+        <item itemvalue="Kotlin.Practice13Kt" />
+        <item itemvalue="Kotlin.AMSKt" />
+        <item itemvalue="Kotlin.FitMoreFishKt" />
         <item itemvalue="Kotlin.FortuneCookieKt" />
       </list>
     </recent_temporary>
@@ -285,7 +289,7 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50080776" side_tool="true" weight="0.50147057" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49919224" visible="true" weight="0.5520833" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49919224" visible="true" weight="0.42083332" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
@@ -307,6 +311,11 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/AMS.kt">
@@ -393,24 +402,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/FortuneCookie2.kt">
+    <entry file="file://$PROJECT_DIR$/src/FortuneCookie.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        <state relative-caret-position="150">
+          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/AMS.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="25" lean-forward="true" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+        <state relative-caret-position="180">
+          <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/FortuneCookie.kt">
+    <entry file="file://$PROJECT_DIR$/src/Practice13.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+        <state relative-caret-position="240">
+          <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -424,10 +433,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Practice13.kt">
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/common/kotlin/util/Standard.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        <state relative-caret-position="424">
+          <caret line="132" column="18" selection-start-line="132" selection-start-column="18" selection-end-line="132" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FortuneCookie2.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
         </state>
       </provider>
     </entry>
