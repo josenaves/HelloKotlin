@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="44232ff2-293b-481b-a68f-1af9abf0533f" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloKotlin/META-INF/HelloKotlin.kotlin_module" beforeDir="false" />
-    </list>
+    <list default="true" id="44232ff2-293b-481b-a68f-1af9abf0533f" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -45,11 +42,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SpicesFilter.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SpicesFilter.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SpicesFilter.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
               <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Lambdas.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Lambdas.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -91,6 +97,7 @@
         <option value="$PROJECT_DIR$/src/Practice13.kt" />
         <option value="$PROJECT_DIR$/src/FortuneCookie2.kt" />
         <option value="$PROJECT_DIR$/src/SpicesFilter.kt" />
+        <option value="$PROJECT_DIR$/src/Lambdas.kt" />
       </list>
     </option>
   </component>
@@ -146,7 +153,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.SpicesFilterKt">
+  <component name="RunManager" selected="Kotlin.LambdasKt">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -196,14 +203,14 @@
       <option name="MAIN_CLASS_NAME" value="FortuneCookie2Kt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
-    <configuration name="FortuneCookieKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="LambdasKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="HelloKotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="FortuneCookieKt" />
+      <option name="MAIN_CLASS_NAME" value="LambdasKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
     <configuration name="Practice13Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
@@ -251,18 +258,18 @@
     <list>
       <item itemvalue="Kotlin.FortuneCookie2Kt" />
       <item itemvalue="Kotlin.AMSKt" />
-      <item itemvalue="Kotlin.FortuneCookieKt" />
       <item itemvalue="Kotlin.FitMoreFishKt" />
       <item itemvalue="Kotlin.Practice13Kt" />
       <item itemvalue="Kotlin.SpicesFilterKt" />
+      <item itemvalue="Kotlin.LambdasKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.LambdasKt" />
         <item itemvalue="Kotlin.SpicesFilterKt" />
         <item itemvalue="Kotlin.Practice13Kt" />
         <item itemvalue="Kotlin.AMSKt" />
         <item itemvalue="Kotlin.FitMoreFishKt" />
-        <item itemvalue="Kotlin.FortuneCookieKt" />
       </list>
     </recent_temporary>
   </component>
@@ -498,6 +505,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Random.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="378" column="46" selection-start-line="378" selection-start-column="37" selection-end-line="378" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lambdas.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
         </state>
       </provider>
     </entry>
