@@ -1,5 +1,15 @@
 package spice
 
+import aquarium.Color
+
+interface SpiceColor {
+    val color: Color
+}
+
+object YellowSpiceColor : SpiceColor {
+    override val color = Color.YELLOW
+}
+
 data class Spice(val name: String, var spiciness: String = "mild") {
 
     var heat: Int = 5
