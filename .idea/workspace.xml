@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="02b01db9-3b83-4259-a65e-5a8784a02541" name="Default" comment="" />
+    <list default="true" id="02b01db9-3b83-4259-a65e-5a8784a02541" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/pairs/Book.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/pairs/Book.kt" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -71,20 +73,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Book.kt" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Book.kt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/pairs/Book.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+            <state relative-caret-position="345">
+              <caret line="23" column="31" lean-forward="true" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BookCollection.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BookCollection.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pairs/BookCollection.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+            <state relative-caret-position="165">
+              <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -116,8 +118,8 @@
         <option value="$PROJECT_DIR$/src/spice/SpiceContainer.kt" />
         <option value="$PROJECT_DIR$/src/aquarium/SpecialClasses.kt" />
         <option value="$PROJECT_DIR$/src/spice/Spice.kt" />
-        <option value="$PROJECT_DIR$/src/pairs/Book.kt" />
         <option value="$PROJECT_DIR$/src/pairs/BookCollection.kt" />
+        <option value="$PROJECT_DIR$/src/pairs/Book.kt" />
       </list>
     </option>
   </component>
@@ -179,7 +181,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.pairs.BookCollectionKt">
+  <component name="RunManager" selected="Kotlin.pairs.BookKt">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -280,8 +282,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.pairs.BookCollectionKt" />
         <item itemvalue="Kotlin.pairs.BookKt" />
+        <item itemvalue="Kotlin.pairs.BookCollectionKt" />
         <item itemvalue="Kotlin.spice.SpiceContainerKt" />
         <item itemvalue="Kotlin.aquarium.Decorations.DecorationsKt" />
         <item itemvalue="Kotlin.spiceDelegation.SpiceKt" />
@@ -313,12 +315,12 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32916668" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32916668" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21643613" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21643613" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -589,13 +591,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pairs/Book.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/collections/MapsJVM.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="206">
@@ -605,8 +600,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pairs/BookCollection.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        <state relative-caret-position="165">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pairs/Book.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="31" lean-forward="true" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
         </state>
       </provider>
     </entry>
