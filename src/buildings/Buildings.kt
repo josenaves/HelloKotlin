@@ -22,6 +22,24 @@ class Building<out T: BaseBuildingMaterial>(val buildingMaterial : T) {
     }
 }
 
+fun <T: BaseBuildingMaterial> isSmallBuilding(building : Building<T>) {
+    if (building.actualMaterialsNeeded < 500) println("small building") else println("large building")
+
+}
+
+//inline fun <reified R: WaterSupply> Aquarium<*>.hasWaterSupplyOfType() = waterSupply is R
+
+//
+//fun <T: WaterSupply> isWaterClean(aquarium: Aquarium<T>) {
+//    println("aquarium water is clean: ${aquarium.waterSupply.needsProcessed}")
+//}
+//
+//inline fun <reified T: WaterSupply> WaterSupply.isOfType() = this is T
+//
+
 fun main(args: Array<String>){
     Building(Wood()).build()
+
+    isSmallBuilding(Building(Wood()))
+    isSmallBuilding(Building(Brick()))
 }
