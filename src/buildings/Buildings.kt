@@ -1,4 +1,4 @@
-package Buildings
+package buildings
 
 open class BaseBuildingMaterial {
    open val numberNeeded = 1
@@ -12,7 +12,7 @@ class Brick : BaseBuildingMaterial() {
     override val numberNeeded = 8
 }
 
-class Building<T: BaseBuildingMaterial>(val buildingMaterial : T) {
+class Building<out T: BaseBuildingMaterial>(val buildingMaterial : T) {
 
     val baseMaterialsNeeded = 100
     val actualMaterialsNeeded = buildingMaterial.numberNeeded * baseMaterialsNeeded
