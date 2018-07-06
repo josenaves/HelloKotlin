@@ -1,5 +1,9 @@
 package aquarium.generics
 
+fun main(args: Array<String>) {
+    genericExample()
+}
+
 open class WaterSupply(var needsProcessed: Boolean)
 
 class TapWater: WaterSupply(true) {
@@ -31,14 +35,21 @@ class Aquarium<out T: WaterSupply>(val waterSupply: T) {
             cleaner.clean(waterSupply)
         }
 
-        println ("adding water from $waterSupply")
+        println("adding water from $waterSupply")
     }
 }
 
-fun addItemTo(aquarium: Aquarium<WaterSupply>) = println("item added")
+inline fun <reified R: WaterSupply> Aquarium<*>.hasWaterSupplyOfType() = waterSupply is R
+
+fun <T: WaterSupply> isWaterClean(aquarium: Aquarium<T>) {
+    println("aquarium water is clean: ${aquarium.waterSupply.needsProcessed}")
+}
+
+inline fun <reified T: WaterSupply> WaterSupply.isOfType() = this is T
 
 fun genericExample() {
-    val cleaner = TapWaterCleaner()
     val aquarium = Aquarium(TapWater())
-    aquarium.addWater(cleaner)
+    isWaterClean(aquarium)
+    aquarium.hasWaterSupplyOfType<TapWater>()
+    aquarium.waterSupply.isOfType<LakeWater>()
 }

@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02b01db9-3b83-4259-a65e-5a8784a02541" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Buildings/Buildings.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/buildings/Buildings.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/aquarium/generics/Aquarium.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/aquarium/generics/Aquarium.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -69,8 +67,8 @@
       <file leaf-file-name="Aquarium.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/aquarium/generics/Aquarium.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="19" column="30" lean-forward="true" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+            <state relative-caret-position="340">
+              <caret line="44" column="62" lean-forward="true" selection-start-line="44" selection-start-column="62" selection-end-line="44" selection-end-column="62" />
             </state>
           </provider>
         </entry>
@@ -78,8 +76,8 @@
       <file leaf-file-name="Buildings.kt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/buildings/Buildings.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+            <state relative-caret-position="300">
+              <caret line="20" column="81" selection-start-line="20" selection-start-column="81" selection-end-line="20" selection-end-column="81" />
             </state>
           </provider>
         </entry>
@@ -131,9 +129,9 @@
         <option value="$PROJECT_DIR$/src/spice/Spice.kt" />
         <option value="$PROJECT_DIR$/src/pairs/BookCollection.kt" />
         <option value="$PROJECT_DIR$/src/pairs/Book.kt" />
-        <option value="$PROJECT_DIR$/src/aquarium/generics/Aquarium.kt" />
         <option value="$PROJECT_DIR$/src/Buildings/Buildings.kt" />
         <option value="$PROJECT_DIR$/src/buildings/Buildings.kt" />
+        <option value="$PROJECT_DIR$/src/aquarium/generics/Aquarium.kt" />
       </list>
     </option>
   </component>
@@ -214,7 +212,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.buildings.BuildingsKt">
+  <component name="RunManager" selected="Kotlin.aquarium.generics.AquariumKt">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -234,14 +232,14 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="aquarium.Decorations.DecorationsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="aquarium.generics.AquariumKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="HelloKotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="aquarium.Decorations.DecorationsKt" />
+      <option name="MAIN_CLASS_NAME" value="aquarium.generics.AquariumKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
     <configuration name="buildings.BuildingsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
@@ -307,19 +305,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Kotlin.aquarium.Decorations.DecorationsKt" />
       <item itemvalue="Kotlin.spice.SpiceContainerKt" />
       <item itemvalue="Kotlin.pairs.BookKt" />
       <item itemvalue="Kotlin.pairs.BookCollectionKt" />
       <item itemvalue="Kotlin.buildings.BuildingsKt" />
+      <item itemvalue="Kotlin.aquarium.generics.AquariumKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.aquarium.generics.AquariumKt" />
         <item itemvalue="Kotlin.buildings.BuildingsKt" />
         <item itemvalue="Kotlin.pairs.BookKt" />
         <item itemvalue="Kotlin.pairs.BookCollectionKt" />
         <item itemvalue="Kotlin.spice.SpiceContainerKt" />
-        <item itemvalue="Kotlin.aquarium.Decorations.DecorationsKt" />
       </list>
     </recent_temporary>
   </component>
@@ -348,12 +346,12 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33125" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33125" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22425249" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22425249" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -690,15 +688,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/aquarium/generics/Aquarium.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="19" column="30" lean-forward="true" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+        <state relative-caret-position="340">
+          <caret line="44" column="62" lean-forward="true" selection-start-line="44" selection-start-column="62" selection-end-line="44" selection-end-column="62" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/buildings/Buildings.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        <state relative-caret-position="300">
+          <caret line="20" column="81" selection-start-line="20" selection-start-column="81" selection-end-line="20" selection-end-column="81" />
         </state>
       </provider>
     </entry>
