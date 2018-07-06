@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02b01db9-3b83-4259-a65e-5a8784a02541" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/pairs/Book.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/pairs/Book.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aquarium/generics/Aquarium.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,24 +15,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Spice.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/spice/Spice.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SpecialClasses.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/aquarium/SpecialClasses.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Practice4_8.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/aquarium/Practice4_8.kt">
           <provider selected="true" editor-type-id="text-editor">
@@ -73,11 +56,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Book.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Book.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pairs/Book.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="385">
-              <caret line="49" column="48" selection-start-line="49" selection-start-column="48" selection-end-line="49" selection-end-column="48" />
+            <state relative-caret-position="795">
+              <caret line="53" selection-start-line="53" selection-end-line="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Aquarium.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/aquarium/generics/Aquarium.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Buildings.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Buildings/Buildings.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="24" lean-forward="true" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AquariumFish.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/aquarium/AquariumFish.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -86,7 +96,7 @@
         <entry file="file://$PROJECT_DIR$/src/pairs/BookCollection.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -120,6 +130,8 @@
         <option value="$PROJECT_DIR$/src/spice/Spice.kt" />
         <option value="$PROJECT_DIR$/src/pairs/BookCollection.kt" />
         <option value="$PROJECT_DIR$/src/pairs/Book.kt" />
+        <option value="$PROJECT_DIR$/src/aquarium/generics/Aquarium.kt" />
+        <option value="$PROJECT_DIR$/src/Buildings/Buildings.kt" />
       </list>
     </option>
   </component>
@@ -137,9 +149,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -156,12 +167,19 @@
               <item name="HelloKotlin" type="b2602c69:ProjectViewProjectNode" />
               <item name="HelloKotlin" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Buildings" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HelloKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HelloKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="pairs" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -181,7 +199,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.pairs.BookKt">
+  <component name="RunManager" selected="Kotlin.Buildings.BuildingsKt">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -200,6 +218,16 @@
         <value defaultName="singleModule" />
       </option>
       <patterns />
+    </configuration>
+    <configuration name="Buildings.BuildingsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="HelloKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Buildings.BuildingsKt" />
+      <option name="WORKING_DIRECTORY" />
     </configuration>
     <configuration name="aquarium.Decorations.DecorationsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="HelloKotlin" />
@@ -229,16 +257,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="pairs.BookKt" />
-      <option name="WORKING_DIRECTORY" />
-    </configuration>
-    <configuration name="spiceDelegation.SpiceKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="HelloKotlin" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="spiceDelegation.SpiceKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
     <configuration name="spice.SpiceContainerKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
@@ -274,19 +292,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Kotlin.spiceDelegation.SpiceKt" />
       <item itemvalue="Kotlin.aquarium.Decorations.DecorationsKt" />
       <item itemvalue="Kotlin.spice.SpiceContainerKt" />
       <item itemvalue="Kotlin.pairs.BookKt" />
       <item itemvalue="Kotlin.pairs.BookCollectionKt" />
+      <item itemvalue="Kotlin.Buildings.BuildingsKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Buildings.BuildingsKt" />
         <item itemvalue="Kotlin.pairs.BookKt" />
         <item itemvalue="Kotlin.pairs.BookCollectionKt" />
         <item itemvalue="Kotlin.spice.SpiceContainerKt" />
         <item itemvalue="Kotlin.aquarium.Decorations.DecorationsKt" />
-        <item itemvalue="Kotlin.spiceDelegation.SpiceKt" />
       </list>
     </recent_temporary>
   </component>
@@ -309,18 +327,17 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32916668" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33125" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33125" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21643613" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2196908" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -333,6 +350,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32916668" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -344,6 +362,44 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/aquarium/Fish.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aquarium/AquariumTwo.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pairs/Book.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aquarium/AquariumFish.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="41" lean-forward="true" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pairs/BookCollection.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aquarium/generics/Aquarium.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/spice/Spice.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -527,13 +583,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/aquarium/AquariumFish.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="41" lean-forward="true" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/aquarium/Decorations/Decorations.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -606,14 +655,35 @@
     <entry file="file://$PROJECT_DIR$/src/pairs/BookCollection.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pairs/Book.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="49" column="48" selection-start-line="49" selection-start-column="48" selection-end-line="49" selection-end-column="48" />
+        <state relative-caret-position="795">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aquarium/AquariumFish.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aquarium/generics/Aquarium.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Buildings/Buildings.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="24" lean-forward="true" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
         </state>
       </provider>
     </entry>
